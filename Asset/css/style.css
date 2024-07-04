@@ -231,7 +231,7 @@
 .left_project_page{
     width: 93%;
     float: left;
-    height: 1900px;
+    height: 3000px;
 }
 .about_title{
     color: white;
@@ -421,7 +421,7 @@
 .project_section{
     width: 80%;
     margin-left: 250px;
-    height: 500px;
+    height: 3000px;
     /* border: 1px solid red; */
     margin-top: 50px;
 }
@@ -448,7 +448,7 @@
     padding-top: 20px;
     color: white;
     width: 90%;
-    height: 230px;
+    height: 300px;
     margin: 0 auto;
     text-align: justify;
     font-family: 'Roboto', sans-serif;
